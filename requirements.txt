@@ -1,0 +1,13 @@
+pandas
+matplotlib
+seaborn
+statsmodels
+ipywidgets
+ipykernel
+scikit-learn
+pmdarima
+prophet
+xgboost
+tensorflow
+keras
+jupyterlab
